@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
