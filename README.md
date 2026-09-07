@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 ## Math
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 ## Binary Search
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
