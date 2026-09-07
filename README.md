@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0766-toeplitz-matrix](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
+| [0775-global-and-local-inversions](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0775-global-and-local-inversions) |
 | [0969-pancake-sorting](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0969-pancake-sorting) |
 | [1053-previous-permutation-with-one-swap](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1268-search-suggestions-system](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0633-sum-of-square-numbers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0775-global-and-local-inversions](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0775-global-and-local-inversions) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
