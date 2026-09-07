@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3828-final-element-after-subarray-deletions](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3828-final-element-after-subarray-deletions) |
 | [3875-construct-uniform-parity-array-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
