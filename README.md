@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1268-search-suggestions-system](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1408-string-matching-in-an-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1408-string-matching-in-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1539-kth-missing-positive-number](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
