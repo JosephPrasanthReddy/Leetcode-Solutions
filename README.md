@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 ## Binary Search
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Dynamic Programming
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Simulation
 |  |
 | ------- |
