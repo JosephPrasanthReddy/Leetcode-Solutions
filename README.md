@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3731-find-missing-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3828-final-element-after-subarray-deletions](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3828-final-element-after-subarray-deletions) |
 | [3875-construct-uniform-parity-array-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
+| [3731-find-missing-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
+| [3731-find-missing-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## Matrix
 |  |
