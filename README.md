@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3828-final-element-after-subarray-deletions](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3828-final-element-after-subarray-deletions) |
 | [3875-construct-uniform-parity-array-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Sliding Window
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Dynamic Programming
 |  |
 | ------- |
