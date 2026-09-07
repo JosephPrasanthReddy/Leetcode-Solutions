@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0969-pancake-sorting) |
 | [1004-max-consecutive-ones-iii](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1053-previous-permutation-with-one-swap](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1053-previous-permutation-with-one-swap) |
+| [1144-decrease-elements-to-make-array-zigzag](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1268-search-suggestions-system](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1408-string-matching-in-an-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0969-pancake-sorting](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0969-pancake-sorting) |
 | [1053-previous-permutation-with-one-swap](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1053-previous-permutation-with-one-swap) |
+| [1144-decrease-elements-to-make-array-zigzag](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
