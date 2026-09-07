@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
+## Stack
+|  |
+| ------- |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 <!---LeetCode Topics End-->
