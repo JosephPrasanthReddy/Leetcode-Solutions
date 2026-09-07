@@ -293,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0069-sqrtx) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
