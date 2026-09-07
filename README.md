@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0633-sum-of-square-numbers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 ## Hash Table
 |  |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
