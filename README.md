@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0969-pancake-sorting) |
 | [1268-search-suggestions-system](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 ## Heap (Priority Queue)
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1053-previous-permutation-with-one-swap](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
