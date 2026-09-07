@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 ## Math
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2833-furthest-point-from-origin](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0888-fair-candy-swap](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2540-minimum-common-value](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2833-furthest-point-from-origin](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
