@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0766-toeplitz-matrix](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0888-fair-candy-swap](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
