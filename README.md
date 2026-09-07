@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0283-move-zeroes](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
