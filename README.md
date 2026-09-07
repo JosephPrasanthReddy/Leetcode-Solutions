@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [0367-valid-perfect-square](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0775-global-and-local-inversions](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0775-global-and-local-inversions) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0367-valid-perfect-square](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0888-fair-candy-swap](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
