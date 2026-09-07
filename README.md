@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
 | [1268-search-suggestions-system](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1408-string-matching-in-an-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1408-string-matching-in-an-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1408-string-matching-in-an-array) |
 ## Geometry
 |  |
