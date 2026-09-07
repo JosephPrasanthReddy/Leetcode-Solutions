@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0969-pancake-sorting) |
 | [1053-previous-permutation-with-one-swap](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1268-search-suggestions-system](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
+| [1408-string-matching-in-an-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1268-search-suggestions-system](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
+| [1408-string-matching-in-an-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
