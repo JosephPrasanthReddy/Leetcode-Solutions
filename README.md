@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2905-find-indices-with-index-and-value-difference-ii](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
 | [0969-pancake-sorting](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0969-pancake-sorting) |
 | [2540-minimum-common-value](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
+| [2905-find-indices-with-index-and-value-difference-ii](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 ## Enumeration
 |  |
 | ------- |
