@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3903-smallest-stable-index-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Hash Table
 |  |
 | ------- |
