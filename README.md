@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2833-furthest-point-from-origin](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
