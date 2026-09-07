@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3828-final-element-after-subarray-deletions](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3828-final-element-after-subarray-deletions) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1268-search-suggestions-system](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Trie
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3828-final-element-after-subarray-deletions](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3828-final-element-after-subarray-deletions) |
+## Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
