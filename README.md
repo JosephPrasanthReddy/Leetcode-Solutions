@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
+| [0605-can-place-flowers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0969-pancake-sorting](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0969-pancake-sorting) |
 | [1053-previous-permutation-with-one-swap](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1144-decrease-elements-to-make-array-zigzag) |
