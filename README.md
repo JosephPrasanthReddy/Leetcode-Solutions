@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1408-string-matching-in-an-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0969-pancake-sorting](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0969-pancake-sorting) |
 | [1268-search-suggestions-system](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 ## Heap (Priority Queue)
