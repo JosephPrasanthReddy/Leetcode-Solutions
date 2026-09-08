@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1929-concatenation-of-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
@@ -339,4 +342,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
