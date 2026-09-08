@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 ## Math
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2833-furthest-point-from-origin](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3731-find-missing-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
