@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3447-assign-elements-to-groups-with-constraints) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3527-find-the-most-common-response](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3731-find-missing-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3828-final-element-after-subarray-deletions](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3828-final-element-after-subarray-deletions) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3527-find-the-most-common-response](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3838-weighted-word-mapping](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3447-assign-elements-to-groups-with-constraints) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3527-find-the-most-common-response](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3731-find-missing-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3527-find-the-most-common-response](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3866-first-unique-even-element](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3866-first-unique-even-element) |
 ## Simulation
 |  |
