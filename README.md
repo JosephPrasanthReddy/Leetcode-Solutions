@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2063-vowels-of-all-substrings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2063-vowels-of-all-substrings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2109-adding-spaces-to-a-string](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1668-maximum-repeating-substring) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [2063-vowels-of-all-substrings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [2063-vowels-of-all-substrings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2063-vowels-of-all-substrings) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 ## Minimax
 |  |
