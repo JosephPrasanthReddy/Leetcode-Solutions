@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1929-concatenation-of-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2109-adding-spaces-to-a-string](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
 | [0969-pancake-sorting](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0969-pancake-sorting) |
 | [1768-merge-strings-alternately](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [2109-adding-spaces-to-a-string](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2540-minimum-common-value](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 ## Enumeration
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2717-semi-ordered-permutation](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2717-semi-ordered-permutation) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
