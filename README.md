@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0292-nim-game](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
