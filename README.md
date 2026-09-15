@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [3206-alternating-groups-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3206-alternating-groups-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3447-assign-elements-to-groups-with-constraints) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3206-alternating-groups-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3206-alternating-groups-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 ## Math
 |  |
