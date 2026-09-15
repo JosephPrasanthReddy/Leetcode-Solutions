@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0775-global-and-local-inversions](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0775-global-and-local-inversions) |
 | [0836-rectangle-overlap](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
+| [0970-powerful-integers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0970-powerful-integers) |
 | [1137-n-th-tribonacci-number](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0888-fair-candy-swap](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
+| [0970-powerful-integers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0970-powerful-integers) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0970-powerful-integers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0970-powerful-integers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
