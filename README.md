@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0035-search-insert-position) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0796-rotate-string](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0796-rotate-string) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [1268-search-suggestions-system](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 ## Sorting
 |  |
