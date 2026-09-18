@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0966-vowel-spellchecker](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0966-vowel-spellchecker) |
 | [0969-pancake-sorting](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0969-pancake-sorting) |
+| [0976-largest-perimeter-triangle](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1004-max-consecutive-ones-iii](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1053-previous-permutation-with-one-swap](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1053-previous-permutation-with-one-swap) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-global-and-local-inversions](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0775-global-and-local-inversions) |
 | [0836-rectangle-overlap](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0970-powerful-integers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0970-powerful-integers) |
+| [0976-largest-perimeter-triangle](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0888-fair-candy-swap](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0969-pancake-sorting](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0969-pancake-sorting) |
+| [0976-largest-perimeter-triangle](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1048-longest-string-chain](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1268-search-suggestions-system](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0969-pancake-sorting](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0969-pancake-sorting) |
+| [0976-largest-perimeter-triangle](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1053-previous-permutation-with-one-swap](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -442,4 +446,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
