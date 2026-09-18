@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3527-find-the-most-common-response](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3838-weighted-word-mapping](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Binary Search
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3731-find-missing-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2540-minimum-common-value](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Enumeration
 |  |
 | ------- |
