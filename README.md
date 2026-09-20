@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2540-minimum-common-value](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Trie
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2947-count-beautiful-substrings-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2947-count-beautiful-substrings-i) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-minimum-moves-to-reach-target-score](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3074-apple-redistribution-into-boxes](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
