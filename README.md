@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0523-continuous-subarray-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2574-left-and-right-sum-differences](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2947-count-beautiful-substrings-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2947-count-beautiful-substrings-i) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0523-continuous-subarray-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0888-fair-candy-swap](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0966-vowel-spellchecker](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0966-vowel-spellchecker) |
 | [0970-powerful-integers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0970-powerful-integers) |
