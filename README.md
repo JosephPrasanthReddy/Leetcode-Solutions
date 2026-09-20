@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3527-find-the-most-common-response](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
+| [3707-equal-score-substrings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3707-equal-score-substrings) |
 | [3838-weighted-word-mapping](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Binary Search
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [3707-equal-score-substrings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3707-equal-score-substrings) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
