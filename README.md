@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0970-powerful-integers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0970-powerful-integers) |
 | [0976-largest-perimeter-triangle](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1860-incremental-memory-leak](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1860-incremental-memory-leak) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2063-vowels-of-all-substrings) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1860-incremental-memory-leak](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1860-incremental-memory-leak) |
 | [1929-concatenation-of-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
