@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1929-concatenation-of-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1137-n-th-tribonacci-number](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1668-maximum-repeating-substring) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2063-vowels-of-all-substrings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
