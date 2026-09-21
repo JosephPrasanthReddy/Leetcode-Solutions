@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0670-maximum-swap](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [0775-global-and-local-inversions](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0775-global-and-local-inversions) |
 | [0836-rectangle-overlap](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0970-powerful-integers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0970-powerful-integers) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
+| [0670-maximum-swap](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0969-pancake-sorting](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
