@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-vowel-spellchecker](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0966-vowel-spellchecker) |
 | [1048-longest-string-chain](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1268-search-suggestions-system](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1408-string-matching-in-an-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
