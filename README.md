@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1053-previous-permutation-with-one-swap](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1268-search-suggestions-system](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1288-remove-covered-intervals](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1408-string-matching-in-an-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1408-string-matching-in-an-array) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-vowel-spellchecker](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0966-vowel-spellchecker) |
 | [0970-powerful-integers](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0970-powerful-integers) |
 | [1048-longest-string-chain](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Brainteaser
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1860-incremental-memory-leak](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1860-incremental-memory-leak) |
 | [1929-concatenation-of-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
