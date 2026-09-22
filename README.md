@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3556-sum-of-largest-prime-substrings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3707-equal-score-substrings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3707-equal-score-substrings) |
 | [3838-weighted-word-mapping](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
+| [3856-trim-trailing-vowels](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3856-trim-trailing-vowels) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Binary Search
 |  |
