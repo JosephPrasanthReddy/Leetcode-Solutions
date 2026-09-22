@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Enumeration
 |  |
