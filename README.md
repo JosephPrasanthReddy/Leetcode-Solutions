@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0523-continuous-subarray-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0888-fair-candy-swap](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0969-pancake-sorting](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0969-pancake-sorting) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0888-fair-candy-swap](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -500,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 ## Counting Sort
 |  |
 | ------- |
