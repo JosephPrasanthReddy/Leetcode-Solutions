@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3206-alternating-groups-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3206-alternating-groups-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3447-assign-elements-to-groups-with-constraints) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2833-furthest-point-from-origin](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3527-find-the-most-common-response](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
