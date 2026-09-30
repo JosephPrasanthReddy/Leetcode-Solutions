@@ -499,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0177-nth-highest-salary) |
 | [0620-not-boring-movies](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0620-not-boring-movies) |
 ## Divide and Conquer
 |  |
