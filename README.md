@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0511-game-play-analysis-i) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
+| [0619-biggest-single-number](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0620-not-boring-movies) |
 ## Divide and Conquer
 |  |
