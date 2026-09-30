@@ -502,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0177-nth-highest-salary) |
 | [0182-duplicate-emails](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0182-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0511-game-play-analysis-i) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0620-not-boring-movies](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/0620-not-boring-movies) |
 ## Divide and Conquer
 |  |
