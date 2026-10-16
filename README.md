@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3912-valid-elements-in-an-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3912-valid-elements-in-an-array) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 ## Sliding Window
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2540-minimum-common-value](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3932-count-k-th-roots-in-a-range) |
+| [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 ## Trie
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3707-equal-score-substrings](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3707-equal-score-substrings) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/JosephPrasanthReddy/Leetcode-Solutions/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 ## Greedy
 |  |
 | ------- |
